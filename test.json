@@ -8,13 +8,13 @@
   {
     "UserId": 1,
     "Id": 2,
-    "Title": "unity\u0027de hareket sistemi",
+    "Title": "unity'de hareket sistemi",
     "Body": "cc.Move(velocity * Time.deltaTime);"
   },
   {
     "UserId": 2,
     "Id": 3,
-    "Title": "fl studioda orkestral m\u00FCzik",
+    "Title": "fl studio'da orkestral müzik",
     "Body": "OT strings si-do#-re-do#"
   }
 ]
