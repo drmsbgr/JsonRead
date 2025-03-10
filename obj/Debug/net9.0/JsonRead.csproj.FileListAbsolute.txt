@@ -1,0 +1,14 @@
+C:\Users\Pc\Desktop\Projects\JsonRead\bin\Debug\net9.0\JsonRead.exe
+C:\Users\Pc\Desktop\Projects\JsonRead\bin\Debug\net9.0\JsonRead.deps.json
+C:\Users\Pc\Desktop\Projects\JsonRead\bin\Debug\net9.0\JsonRead.runtimeconfig.json
+C:\Users\Pc\Desktop\Projects\JsonRead\bin\Debug\net9.0\JsonRead.dll
+C:\Users\Pc\Desktop\Projects\JsonRead\bin\Debug\net9.0\JsonRead.pdb
+C:\Users\Pc\Desktop\Projects\JsonRead\obj\Debug\net9.0\JsonRead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\Projects\JsonRead\obj\Debug\net9.0\JsonRead.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\Projects\JsonRead\obj\Debug\net9.0\JsonRead.AssemblyInfo.cs
+C:\Users\Pc\Desktop\Projects\JsonRead\obj\Debug\net9.0\JsonRead.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Projects\JsonRead\obj\Debug\net9.0\JsonRead.dll
+C:\Users\Pc\Desktop\Projects\JsonRead\obj\Debug\net9.0\refint\JsonRead.dll
+C:\Users\Pc\Desktop\Projects\JsonRead\obj\Debug\net9.0\JsonRead.pdb
+C:\Users\Pc\Desktop\Projects\JsonRead\obj\Debug\net9.0\JsonRead.genruntimeconfig.cache
+C:\Users\Pc\Desktop\Projects\JsonRead\obj\Debug\net9.0\ref\JsonRead.dll
